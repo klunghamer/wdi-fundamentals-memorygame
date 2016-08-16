@@ -44,7 +44,7 @@ div {
 	display: inline-block;
 }
 
-#board {
+#game-board {
 	width: 50%;
 	height: 50%;
 	border: 1px;
